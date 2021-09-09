@@ -6,3 +6,8 @@
 - 수동일 때 조작키를 이용해 조종
 
 *앱 이름 : 아두이노 블루투스 컨트롤러 / 아두이노 프로젝트 PPT 패스워드 : s0405
+
+
+https://user-images.githubusercontent.com/90390896/132692926-57adaffa-47c6-47a8-a7f5-4384bc82b174.mp4
+
+
